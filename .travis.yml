@@ -2,7 +2,8 @@ language: node_js
 node_js: 
   	- "v10.13.0"
 before_script: 
-	- npm install
+	- npm install,
+	- "travis_wait opam install -y coq.dev"
 script: 
 	- npm test
 after_success: 
