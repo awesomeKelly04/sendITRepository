@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-  "start": "node server.js",
-  "test": "mocha --reporter ../sendItAPI/test/*.js"
+    "start": "node server.js",
+    "test": "find ../sendItAPI/test -name '*-test.js' | xargs mocha -R spec"
   },
   "author": "",
   "license": "ISC",
@@ -18,4 +18,3 @@
     "request": "^2.88.0"
   }
 }
-
