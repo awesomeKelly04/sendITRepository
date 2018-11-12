@@ -2,7 +2,7 @@
 	font-family: cooper black;
 	font-size: 26px;
 	font-weight: 600;
-	color: #bca136;
+	color: #C2571A;
 	text-align: center;
 	line-height: 40px;	
 	text-shadow: 2px 2px 8px #111;
@@ -36,17 +36,17 @@
 
 .index-login-view div input[type="text"], .index-login-view input[type="password"] {
 	border: none;
-	border-bottom: 2px solid #bca136;
+	border-bottom: 2px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
-	color: #bca136;
+	color: #C2571A;
 	font-size: 16px;
 }
 
 .index-login-view div input[type="submit"] {
 	border: none;
-	background: #bca136;
+	background: #C2571A;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -62,7 +62,7 @@
 }
 
 .index-login-view div a {
-	color: #bca136;
+	color: #C2571A;
 }
 
 .index-login-view div a:hover {
@@ -90,7 +90,7 @@
 	font-family: cooper black;
 	font-size: 26px;
 	font-weight: 600;
-	color: #bca136;
+	color: #C2571A;
 	text-align: center;
 	line-height: 40px;	
 	text-shadow: 2px 2px 8px #111;
@@ -125,11 +125,11 @@
 
 .index-signup-view div input[type="text"], .index-signup-view input[type="password"], .index-signup-view input[type="email"]  {
 	border: none;
-	border-bottom: 2px solid #bca136;
+	border-bottom: 2px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
-	color: #bca136;
+	color: #C2571A;
 	font-size: 16px;
 }
 
@@ -143,7 +143,7 @@
 
 .index-signup-view div input[type="submit"] {
 	border: none;
-	background: #bca136;
+	background: #C2571A;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -159,7 +159,7 @@
 }
 
 .index-signup-view div a {
-	color: #bca136;
+	color: #C2571A;
 }
 
 .index-signup-view div a:hover {
@@ -188,7 +188,7 @@
 	font-family: cooper black;
 	font-size: 26px;
 	font-weight: 600;
-	color: #bca136;
+	color: #C2571A;
 	text-align: center;
 	line-height: 40px;	
 	text-shadow: 2px 2px 8px #111;
@@ -209,7 +209,7 @@
 	font-family: sans-serif;
 	font-size: 18px;
 	font-weight: bold;
-	background-color: #bca136;
+	background-color: #C2571A;
 	color: #fff;
 	text-align: justify;
 	line-height: 20px;	
@@ -234,16 +234,16 @@
 }
 
 .index-parcels-view div input[type="text"], .index-parcels-view input[type="password"], .index-parcels-view input[type="email"]  {
-	border: 1px solid #bca136;
+	border: 1px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
-	color: #bca136;
+	color: #C2571A;
 	font-size: 16px;
 }
 
 .index-parcels-view div select {
-	border: 1px solid #bca136;
+	border: 1px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
@@ -262,7 +262,7 @@
 
 .index-parcels-view div input[type="submit"] {
 	border: none;
-	background: #bca136;
+	background: #C2571A;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -278,7 +278,7 @@
 }
 
 .index-parcels-view div a {
-	color: #bca136;
+	color: #C2571A;
 }
 
 .index-parcels-view div a:hover {
@@ -319,7 +319,7 @@
 	font-family: cooper black;
 	font-size: 26px;
 	font-weight: 600;
-	color: #bca136;
+	color: #C2571A;
 	text-align: center;
 	line-height: 40px;	
 	text-shadow: 2px 2px 8px #111;
@@ -340,7 +340,7 @@
 	font-family: sans-serif;
 	font-size: 18px;
 	font-weight: bold;
-	background-color: #bca136;
+	background-color: #C2571A;
 	color: #fff;
 	text-align: justify;
 	line-height: 20px;	
@@ -364,17 +364,17 @@
 }
 
 .display-parcels-view div input[type="text"], .display-parcels-view input[type="password"], .display-parcels-view input[type="email"]  {
-	border: 1px solid #bca136;
+	border: 1px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
-	color: #bca136;
+	color: #C2571A;
 	font-size: 16px;
 	margin: 5px 20px;
 }
 
 .display-parcels-view div select {
-	border: 1px solid #bca136;
+	border: 1px solid #C2571A;
 	background: transparent;
 	outline: none;
 	height: 30px;
@@ -393,7 +393,7 @@
 
 .display-parcels-view div input[type="submit"] {
 	border: none;
-	background: #bca136;
+	background: #C2571A;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -409,7 +409,7 @@
 }
 
 .display-parcels-view div a {
-	color: #bca136;
+	color: #C2571A;
 }
 
 .display-parcels-view div a:hover {
