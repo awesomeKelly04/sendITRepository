@@ -88,7 +88,7 @@
 
 .index-signup-view div h3 {
 	font-family: cooper black;
-	font-size: 26px;
+	font-size: 18px;
 	font-weight: 600;
 	color: #C2571A;
 	text-align: center;
@@ -99,7 +99,7 @@
 
 .index-signup-view div {
 	margin: 10px 20px;
-	width: 20px auto;
+	width: 40px auto;
 	height: 100%;
 	background-color: #f2f2f2;
 	box-sizing: border-box;
@@ -109,7 +109,7 @@
 
 .index-signup-view div p {
 	font-family: sans-serif;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #111;
 	text-align: justify;
@@ -147,7 +147,7 @@
 	outline: none;
 	height: 40px;
 	color: #fff;
-	font-size: 18px;
+	font-size: 14px;
 	border-radius: 10px;
 }
 
@@ -186,7 +186,7 @@
 
 .index-parcels-view div h3 {
 	font-family: cooper black;
-	font-size: 26px;
+	font-size: 16px;
 	font-weight: 600;
 	color: #C2571A;
 	text-align: center;
@@ -207,7 +207,7 @@
 
 .index-parcels-view div p {
 	font-family: sans-serif;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
 	background-color: #C2571A;
 	color: #fff;
@@ -248,7 +248,7 @@
 	outline: none;
 	height: 30px;
 	color: #111;
-	font-size: 16px;
+	font-size: 14px;
 	margin: 10px auto;
 }
 
@@ -266,14 +266,14 @@
 	outline: none;
 	height: 40px;
 	color: #fff;
-	font-size: 18px;
+	font-size: 14px;
 	border-radius: 10px;
 }
 
 .index-parcels-view div input[type="submit"]:hover {
 	text-decoration: none;
 	line-height: 30px;
-	font-size: 13px;
+	font-size: 12px;
 	color: #111;
 }
 
@@ -304,7 +304,7 @@
 
 .summary-views div table {
 	font-family: sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: bold;
 	color: #111;
 	text-align: justify;
@@ -317,7 +317,7 @@
 
 .display-parcels-view div h3 {
 	font-family: cooper black;
-	font-size: 26px;
+	font-size: 16px;
 	font-weight: 600;
 	color: #C2571A;
 	text-align: center;
@@ -338,7 +338,7 @@
 
 .display-parcels-view div p {
 	font-family: sans-serif;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
 	background-color: #C2571A;
 	color: #fff;
@@ -350,7 +350,7 @@
 
 .display-parcels-view div label {
 	font-family: sans-serif;
-	font-size: 16px;
+	font-size: 12px;
 	font-weight: bold;
 	color: #111;
 	text-align: justify;
@@ -369,7 +369,7 @@
 	outline: none;
 	height: 30px;
 	color: #C2571A;
-	font-size: 16px;
+	font-size: 12px;
 	margin: 5px 20px;
 }
 
@@ -379,7 +379,7 @@
 	outline: none;
 	height: 30px;
 	color: #111;
-	font-size: 16px;
+	font-size: 12px;
 	margin: 10px auto;
 }
 
@@ -404,7 +404,7 @@
 .display-parcels-view div input[type="submit"]:hover {
 	text-decoration: none;
 	line-height: 30px;
-	font-size: 13px;
+	font-size: 12px;
 	color: #111;
 }
 
@@ -437,7 +437,7 @@
 }
 
 #panel select, #right-panel input {
-	font-size: 15px;
+	font-size: 13x;
 }
 
 #panel select {
