@@ -46,10 +46,8 @@
           <form method="POST" action="#" onsubmit=" return changeLocation()">            
             <fieldset>
               <p>Location Details</p><br>
-              <label>Address line 1</label>
-              <input id="address-line-1" type="text" name="" placeholder="Enter Address line 1">
-              <label>Address line 2</label>
-              <input id="address-line-2" type="text" name="" placeholder="Enter Address line 2">              
+              <label>Address</label>
+              <input id="address" type="text" name="" placeholder="Enter Address line 1">             
               <label>City</label><br>
               <select class="form-control" id="collection-year" name="collection-year">
                 <option value="0">--City--</option>
@@ -171,6 +169,7 @@
               <label>Status</label><br>
               <select class="form-control" id="collection-status" name="collection-status">
                   <option value="0">--Status--</option>
+                  <option value="On transit">Received</option>
                   <option value="On transit">On transit</option>
                   <option value="Delivered">Delivered</option>
               </select><br>
