@@ -137,13 +137,13 @@ header .header-brand img{
 	display: block;
 	margin: 0 auto;
 	text-align: center;
-	padding: 20px 0px;
+	padding: 20px 0;
 }
 
 header nav ul, main section div nav ul {
 	display: block;
 	margin: 0 auto;
-	width: fit-content;	
+	width: auto;	
 }
 
 header nav ul li, main section div nav ul li {
